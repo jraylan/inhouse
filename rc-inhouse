@@ -1,0 +1,10 @@
+
+export INHOUSE_BOT_TOKEN= <TOKEN AQI>
+
+export INHOUSE_BOT_CONNECTION_STRING="postgresql+psycopg2://inhouse:inhouse@localhost/inhouse"
+
+export INHOUSE_DB_NAME="inhouse"
+export INHOUSE_DB_USER="inhouse"
+export INHOUSE_DB_PASSOWRD="inhouse"
+export INHOUSE_DB_HOST="localhost"
+export INHOUSE_DB_PORT="5432"

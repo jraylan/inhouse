@@ -1,7 +1,7 @@
 ### Installation
 
 ```
-git clone git@github.com/jraylan/inhouse2.git inhouse
+git clone git@github.com/jraylan/inhouse.git inhouse
 ```
 
 ```

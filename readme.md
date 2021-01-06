@@ -15,7 +15,7 @@ pip3 install -r requirements.txt
 As variáveis de ambiente estão no arquivo inhouse-rc
 
 ```
-source inhose-rc
+source rc-inhouse
 ```
 
 Cria as migrações do banco
